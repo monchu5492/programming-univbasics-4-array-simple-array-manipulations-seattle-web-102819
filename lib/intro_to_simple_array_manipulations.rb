@@ -47,4 +47,5 @@ def using_uniq(array)
     new_array = array.uniq(haircuts)
 end 
 
-
+def using_flatten(array)
+  
